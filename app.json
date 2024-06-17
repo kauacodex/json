@@ -9,7 +9,92 @@
   },
 
   {
-    "nome": "Alface",
-    "chocolatey": "Like"
+    "nome": "AnyDesk",
+    "chocolatey": "anydesk"
+  },
+  {
+    "nome": "KeeWeb",
+    "chocolatey": "keeweb"
+  },
+  {
+    "nome": "Microsoft Teams",
+    "chocolatey": "microsoft-teams-new-bootstrapper"
+  },
+  {
+    "nome": "Notepad++",
+    "chocolatey": "notepadplusplus"
+  },
+  {
+    "nome": "Office 365",
+    "chocolatey": "office365business"
+  },
+  {
+    "nome": "Microsoft OneDrive",
+    "chocolatey": "onedrive"
+  },
+  {
+    "nome": "PG Admin 4",
+    "chocolatey": "pgadmin4"
+  },
+  {
+    "nome": "Putty SSH",
+    "chocolatey": "putty"
+  },
+  {
+    "nome": "Adobe Acrobat Reader DC",
+    "chocolatey": "adobereader"
+  },
+  {
+    "nome": "Vlc Media Player",
+    "chocolatey": "vlc"
+  },
+  {
+    "nome": "Visual Studio Code",
+    "chocolatey": "vscode"
+  },
+  {
+    "nome": "WinRAR",
+    "chocolatey": "winrar"
+  },
+  {
+    "nome": "",
+    "chocolatey": ""
+  },
+  {
+    "nome": "7-Zip",
+    "chocolatey": "7zip"
+  },
+  {
+    "nome": "MobaXTerm",
+    "chocolatey": "mobaxterm"
+  },
+  {
+    "nome": "LightShot",
+    "chocolatey": "lightshot"
+  },
+  {
+    "nome": "FlameShot",
+    "chocolatey": "flameshot"
+  },
+  {
+    "nome": "",
+    "chocolatey": ""
+  },
+  {
+    "nome": "",
+    "chocolatey": ""
+  },
+  {
+    "nome": "",
+    "chocolatey": ""
+  },
+  {
+    "nome": "",
+    "chocolatey": ""
+  },
+
+  {
+    "nome": "FileZilla",
+    "chocolatey": "filezilla"
   }
 ]
