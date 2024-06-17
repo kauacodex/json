@@ -6,5 +6,10 @@
   {
     "nome": "Mozilla Firefox",
     "chocolatey": "firefox"
+  },
+
+  {
+    "nome": "Alface",
+    "chocolatey": "Like"
   }
 ]
