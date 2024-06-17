@@ -1,0 +1,10 @@
+[
+  {
+    "nome": "Google Chrome",
+    "chocolatey": "googlechrome"
+  },
+  {
+    "nome": "Mozilla Firefox",
+    "chocolatey": "firefox"
+  }
+]
