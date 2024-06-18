@@ -1,121 +1,147 @@
 [
   {
     "nome": "Google Chrome",
-    "chocolatey": "googlechrome"
+    "chocolatey": "googlechrome",
+    "icon_url": "https://example.com/icons/googlechrome.png"
   },
   {
     "nome": "Mozilla Firefox",
-    "chocolatey": "firefox"
+    "chocolatey": "firefox",
+    "icon_url": "https://example.com/icons/firefox.png"
   },
   {
     "nome": "Navegador Brave",
-    "chocolatey": "brave"
+    "chocolatey": "brave",
+    "icon_url": "https://example.com/icons/brave.png"
   },
-
   {
     "nome": "AnyDesk",
-    "chocolatey": "anydesk"
+    "chocolatey": "anydesk",
+    "icon_url": "https://example.com/icons/anydesk.png"
   },
   {
     "nome": "KeeWeb",
-    "chocolatey": "keeweb"
+    "chocolatey": "keeweb",
+    "icon_url": "https://example.com/icons/keeweb.png"
   },
   {
     "nome": "Microsoft Teams",
-    "chocolatey": "microsoft-teams-new-bootstrapper"
+    "chocolatey": "microsoft-teams-new-bootstrapper",
+    "icon_url": "https://example.com/icons/microsoft-teams.png"
   },
   {
     "nome": "Notepad++",
-    "chocolatey": "notepadplusplus"
+    "chocolatey": "notepadplusplus",
+    "icon_url": "https://example.com/icons/notepadplusplus.png"
   },
   {
     "nome": "Office 365",
-    "chocolatey": "office365business"
+    "chocolatey": "office365business",
+    "icon_url": "https://example.com/icons/office365.png"
   },
   {
     "nome": "Microsoft OneDrive",
-    "chocolatey": "onedrive"
+    "chocolatey": "onedrive",
+    "icon_url": "https://example.com/icons/onedrive.png"
   },
   {
     "nome": "PG Admin 4",
-    "chocolatey": "pgadmin4"
+    "chocolatey": "pgadmin4",
+    "icon_url": "https://example.com/icons/pgadmin4.png"
   },
   {
     "nome": "Putty SSH",
-    "chocolatey": "putty"
+    "chocolatey": "putty",
+    "icon_url": "https://example.com/icons/putty.png"
   },
   {
     "nome": "Adobe Acrobat Reader DC",
-    "chocolatey": "adobereader"
+    "chocolatey": "adobereader",
+    "icon_url": "https://example.com/icons/adobereader.png"
   },
   {
     "nome": "Vlc Media Player",
-    "chocolatey": "vlc"
+    "chocolatey": "vlc",
+    "icon_url": "https://example.com/icons/vlc.png"
   },
   {
     "nome": "Visual Studio Code",
-    "chocolatey": "vscode"
+    "chocolatey": "vscode",
+    "icon_url": "https://example.com/icons/vscode.png"
   },
   {
     "nome": "WinRAR",
-    "chocolatey": "winrar"
+    "chocolatey": "winrar",
+    "icon_url": "https://example.com/icons/winrar.png"
   },
   {
     "nome": "Obs Studio",
-    "chocolatey": "obs-studio"
+    "chocolatey": "obs-studio",
+    "icon_url": "https://example.com/icons/obs-studio.png"
   },
   {
     "nome": "7-Zip",
-    "chocolatey": "7zip"
+    "chocolatey": "7zip",
+    "icon_url": "https://example.com/icons/7zip.png"
   },
   {
     "nome": "MobaXTerm",
-    "chocolatey": "mobaxterm"
+    "chocolatey": "mobaxterm",
+    "icon_url": "https://example.com/icons/mobaxterm.png"
   },
   {
     "nome": "LightShot",
-    "chocolatey": "lightshot"
+    "chocolatey": "lightshot",
+    "icon_url": "https://example.com/icons/lightshot.png"
   },
   {
     "nome": "FlameShot",
-    "chocolatey": "flameshot"
+    "chocolatey": "flameshot",
+    "icon_url": "https://example.com/icons/flameshot.png"
   },
   {
     "nome": "Driver Booster",
-    "chocolatey": "driverbooster"
+    "chocolatey": "driverbooster",
+    "icon_url": "https://example.com/icons/driverbooster.png"
   },
   {
     "nome": "Python 3.11.x",
-    "chocolatey": "python311"
+    "chocolatey": "python311",
+    "icon_url": "https://example.com/icons/python311.png"
   },
   {
     "nome": "CCleaner",
-    "chocolatey": "ccleaner"
+    "chocolatey": "ccleaner",
+    "icon_url": "https://example.com/icons/ccleaner.png"
   },
   {
     "nome": "Microsoft PowerToys",
-    "chocolatey": "powertoys"
+    "chocolatey": "powertoys",
+    "icon_url": "https://example.com/icons/powertoys.png"
   },
   {
     "nome": "WinDirStat",
-    "chocolatey": "windirstat"
+    "chocolatey": "windirstat",
+    "icon_url": "https://example.com/icons/windirstat.png"
   },
   {
     "nome": "Team Viewer",
-    "chocolatey": "teamviewer"
+    "chocolatey": "teamviewer",
+    "icon_url": "https://example.com/icons/teamviewer.png"
   },
-
   {
     "nome": "Google Earth Pro",
-    "chocolatey": "googleearthpro"
+    "chocolatey": "googleearthpro",
+    "icon_url": "https://example.com/icons/googleearthpro.png"
   },
   {
     "nome": "VirtualBox",
-    "chocolatey": "virtualbox"
+    "chocolatey": "virtualbox",
+    "icon_url": "https://example.com/icons/virtualbox.png"
   },
-
   {
     "nome": "FileZilla",
-    "chocolatey": "filezilla"
+    "chocolatey": "filezilla",
+    "icon_url": "https://example.com/icons/filezilla.png"
   }
 ]
