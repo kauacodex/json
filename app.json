@@ -1,147 +1,121 @@
 [
   {
     "nome": "Google Chrome",
-    "chocolatey": "googlechrome",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "googlechrome"
   },
   {
     "nome": "Mozilla Firefox",
-    "chocolatey": "firefox",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "firefox"
   },
   {
     "nome": "Navegador Brave",
-    "chocolatey": "brave",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "brave"
   },
+
   {
     "nome": "AnyDesk",
-    "chocolatey": "anydesk",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "anydesk"
   },
   {
     "nome": "KeeWeb",
-    "chocolatey": "keeweb",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "keeweb"
   },
   {
     "nome": "Microsoft Teams",
-    "chocolatey": "microsoft-teams-new-bootstrapper",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "microsoft-teams-new-bootstrapper"
   },
   {
     "nome": "Notepad++",
-    "chocolatey": "notepadplusplus",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "notepadplusplus"
   },
   {
     "nome": "Office 365",
-    "chocolatey": "office365business",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "office365business"
   },
   {
     "nome": "Microsoft OneDrive",
-    "chocolatey": "onedrive",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "onedrive"
   },
   {
     "nome": "PG Admin 4",
-    "chocolatey": "pgadmin4",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "pgadmin4"
   },
   {
     "nome": "Putty SSH",
-    "chocolatey": "putty",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "putty"
   },
   {
     "nome": "Adobe Acrobat Reader DC",
-    "chocolatey": "adobereader",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "adobereader"
   },
   {
     "nome": "Vlc Media Player",
-    "chocolatey": "vlc",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "vlc"
   },
   {
     "nome": "Visual Studio Code",
-    "chocolatey": "vscode",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "vscode"
   },
   {
     "nome": "WinRAR",
-    "chocolatey": "winrar",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "winrar"
   },
   {
     "nome": "Obs Studio",
-    "chocolatey": "obs-studio",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "obs-studio"
   },
   {
     "nome": "7-Zip",
-    "chocolatey": "7zip",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "7zip"
   },
   {
     "nome": "MobaXTerm",
-    "chocolatey": "mobaxterm",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "mobaxterm"
   },
   {
     "nome": "LightShot",
-    "chocolatey": "lightshot",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "lightshot"
   },
   {
     "nome": "FlameShot",
-    "chocolatey": "flameshot",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "flameshot"
   },
   {
     "nome": "Driver Booster",
-    "chocolatey": "driverbooster",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "driverbooster"
   },
   {
     "nome": "Python 3.11.x",
-    "chocolatey": "python311",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "python311"
   },
   {
     "nome": "CCleaner",
-    "chocolatey": "ccleaner",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "ccleaner"
   },
   {
     "nome": "Microsoft PowerToys",
-    "chocolatey": "powertoys",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "powertoys"
   },
   {
     "nome": "WinDirStat",
-    "chocolatey": "windirstat",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "windirstat"
   },
   {
     "nome": "Team Viewer",
-    "chocolatey": "teamviewer",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "teamviewer"
   },
+
   {
     "nome": "Google Earth Pro",
-    "chocolatey": "googleearthpro",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "googleearthpro"
   },
   {
     "nome": "VirtualBox",
-    "chocolatey": "virtualbox",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "virtualbox"
   },
+
   {
     "nome": "FileZilla",
-    "chocolatey": "filezilla",
-    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
+    "chocolatey": "filezilla"
   }
 ]
