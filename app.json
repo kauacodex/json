@@ -2,146 +2,146 @@
   {
     "nome": "Google Chrome",
     "chocolatey": "googlechrome",
-    "icon_url": "https://example.com/icons/googlechrome.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Mozilla Firefox",
     "chocolatey": "firefox",
-    "icon_url": "https://example.com/icons/firefox.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Navegador Brave",
     "chocolatey": "brave",
-    "icon_url": "https://example.com/icons/brave.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "AnyDesk",
     "chocolatey": "anydesk",
-    "icon_url": "https://example.com/icons/anydesk.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "KeeWeb",
     "chocolatey": "keeweb",
-    "icon_url": "https://example.com/icons/keeweb.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Microsoft Teams",
     "chocolatey": "microsoft-teams-new-bootstrapper",
-    "icon_url": "https://example.com/icons/microsoft-teams.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Notepad++",
     "chocolatey": "notepadplusplus",
-    "icon_url": "https://example.com/icons/notepadplusplus.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Office 365",
     "chocolatey": "office365business",
-    "icon_url": "https://example.com/icons/office365.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Microsoft OneDrive",
     "chocolatey": "onedrive",
-    "icon_url": "https://example.com/icons/onedrive.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "PG Admin 4",
     "chocolatey": "pgadmin4",
-    "icon_url": "https://example.com/icons/pgadmin4.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Putty SSH",
     "chocolatey": "putty",
-    "icon_url": "https://example.com/icons/putty.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Adobe Acrobat Reader DC",
     "chocolatey": "adobereader",
-    "icon_url": "https://example.com/icons/adobereader.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Vlc Media Player",
     "chocolatey": "vlc",
-    "icon_url": "https://example.com/icons/vlc.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Visual Studio Code",
     "chocolatey": "vscode",
-    "icon_url": "https://example.com/icons/vscode.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "WinRAR",
     "chocolatey": "winrar",
-    "icon_url": "https://example.com/icons/winrar.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Obs Studio",
     "chocolatey": "obs-studio",
-    "icon_url": "https://example.com/icons/obs-studio.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "7-Zip",
     "chocolatey": "7zip",
-    "icon_url": "https://example.com/icons/7zip.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "MobaXTerm",
     "chocolatey": "mobaxterm",
-    "icon_url": "https://example.com/icons/mobaxterm.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "LightShot",
     "chocolatey": "lightshot",
-    "icon_url": "https://example.com/icons/lightshot.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "FlameShot",
     "chocolatey": "flameshot",
-    "icon_url": "https://example.com/icons/flameshot.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Driver Booster",
     "chocolatey": "driverbooster",
-    "icon_url": "https://example.com/icons/driverbooster.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Python 3.11.x",
     "chocolatey": "python311",
-    "icon_url": "https://example.com/icons/python311.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "CCleaner",
     "chocolatey": "ccleaner",
-    "icon_url": "https://example.com/icons/ccleaner.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Microsoft PowerToys",
     "chocolatey": "powertoys",
-    "icon_url": "https://example.com/icons/powertoys.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "WinDirStat",
     "chocolatey": "windirstat",
-    "icon_url": "https://example.com/icons/windirstat.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Team Viewer",
     "chocolatey": "teamviewer",
-    "icon_url": "https://example.com/icons/teamviewer.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "Google Earth Pro",
     "chocolatey": "googleearthpro",
-    "icon_url": "https://example.com/icons/googleearthpro.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "VirtualBox",
     "chocolatey": "virtualbox",
-    "icon_url": "https://example.com/icons/virtualbox.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   },
   {
     "nome": "FileZilla",
     "chocolatey": "filezilla",
-    "icon_url": "https://example.com/icons/filezilla.png"
+    "icon_url": "https://raw.githubusercontent.com/kauacodex/json/main/images.png"
   }
 ]
