@@ -117,5 +117,10 @@
   {
     "nome": "FileZilla",
     "chocolatey": "filezilla"
+  },
+
+  {
+    "nome": "Docker Desktop",
+    "chocolatey": "docker-desktop"
   }
 ]
